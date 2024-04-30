@@ -12,3 +12,4 @@
 // git checkout -b "nomeDaBranch"
 
 // mudança na branch main
+// --delete é deletar branchs...
