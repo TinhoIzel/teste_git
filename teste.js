@@ -9,7 +9,9 @@
 // git reset --hard     - volta pro último commit (reseta as mudanças)
 
 // trocar de branch:
-// git checkout -b "nomeDaBranch"
+// git checkout -b "nomeDaBranch"   // criar e trocar
+// git checkout "nome"              // só trocar
 
-// mudança na branch main
-// --delete é deletar branchs...
+// git branch -d "nome"             // deletar localmente
+// git push origin "nome" --delete  // deletar no remoto
+// os 2 juntos - some com a branch!!
